@@ -6,4 +6,5 @@ Assume your host operating system is Mac OS X and you have installed Ubuntu as t
 There is no need to mount the guest additions ISO and install from it if your guest OS is Ubuntu.
 
 Instead, open a terminal and enter the following:
-**  sudo apt-get install virtualbox-guest-utils**
+ 
+ sudo apt-get install virtualbox-guest-utils**
